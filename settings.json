@@ -1,0 +1,9 @@
+{
+    "name": "Poop",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-contract_access": true
+    }
+}
